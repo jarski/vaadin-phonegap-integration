@@ -15,4 +15,5 @@
 
 	<access origin="*" />
     <gap:plugin name="org.apache.cordova.device" />
+    <gap:plugin name="org.apache.cordova.network-information" version="0.2.7" />
 </widget>
