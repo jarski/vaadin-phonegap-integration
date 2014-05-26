@@ -1,0 +1,23 @@
+CACHE MANIFEST
+# Build timeMon May 26 10:35:47 EEST 2014
+
+CACHE:
+../../../VAADIN/themes/touchkit/styles.css
+../../../VAADIN/vaadinBootstrap.js
+D12CFB7838EDC478B0483F6B2EAB7ABC.cache.js
+clear.cache.gif
+com.example.exampleapp.widgetset.ExampleappWidgetset.devmode.js
+com.example.exampleapp.widgetset.ExampleappWidgetset.nocache.js
+deferredjs/D12CFB7838EDC478B0483F6B2EAB7ABC/1.cache.js
+deferredjs/D12CFB7838EDC478B0483F6B2EAB7ABC/2.cache.js
+deferredjs/D12CFB7838EDC478B0483F6B2EAB7ABC/3.cache.js
+deferredjs/D12CFB7838EDC478B0483F6B2EAB7ABC/4.cache.js
+deferredjs/D12CFB7838EDC478B0483F6B2EAB7ABC/5.cache.js
+deferredjs/D12CFB7838EDC478B0483F6B2EAB7ABC/6.cache.js
+deferredjs/D12CFB7838EDC478B0483F6B2EAB7ABC/7.cache.js
+deferredjs/D12CFB7838EDC478B0483F6B2EAB7ABC/8.cache.js
+deferredjs/D12CFB7838EDC478B0483F6B2EAB7ABC/9.cache.js
+
+NETWORK:
+*
+
