@@ -11,6 +11,7 @@
 	<description>
 		Wrapping Vaadin applications inside PhoneGap
 	</description>
+    <icon src="icon.png" gap:role="default" />
 
 	<access origin="*" />
     <gap:plugin name="org.apache.cordova.device" />
