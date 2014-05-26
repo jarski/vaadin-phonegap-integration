@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=10;chrome=1" />
+<style type="text/css">html, body {height:100%;margin:0;}</style>
+<link rel="stylesheet" type="text/css" href="css/index.css" />
+<title>Vaadin</title>
+</head>
+<body>
+	<div id="VaadinApp" class=" v-app exampleapp">
+		<div class=" v-app-loading"></div>
+		<noscript>You have to enable javascript in your browser to
+			use an application built with Vaadin.</noscript>
+	</div>
+	<script type="text/javascript" src="phonegap.js"></script>
+	<iframe tabindex="-1" id="__gwt_historyFrame"
+		style="position: absolute; width: 0; height: 0; border: 0; overflow: hidden"
+		src="javascript:false"></iframe>
+	<script type="text/javascript" src="../VAADIN/vaadinBootstrap.js"></script>
+	<script type="text/javascript">//<![CDATA[
+if (!window.vaadin) alert("Failed to load the bootstrap javascript: ../VAADIN/vaadinBootstrap.js");
+if (typeof window.__gwtStatsEvent != 'function') {
+vaadin.gwtStatsEvents = [];
+window.__gwtStatsEvent = function(event) {vaadin.gwtStatsEvents.push(event); return true;};
+}
+vaadin.initApplication("VaadinApp",{
+	"browserDetailsUrl": "../App",
+	"serviceUrl": "../App",
+    "authErrMsg": {
+        "caption": "Authentication problem",
+        "message": "Take note of any unsaved data, and <u>click here<\/u> to continue."
+    },
+    "comErrMsg": {},
+    "debug": true,
+    "heartbeatInterval": 300,
+    "sessExpMsg": {},
+    "standalone": false,
+    "theme": "exampleapp",
+    "vaadinDir": "../VAADIN/",
+    "versionInfo": {"vaadinVersion": "7.2.0"},
+    "widgetset": "com.example.exampleapp.widgetset.ExampleappWidgetset",
+});
+//]]></script>
+</body>
+</html>

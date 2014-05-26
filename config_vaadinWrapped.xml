@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.example.externalUrl"
+	id		= "com.example.vaadinwrapped"
 	version 	= "0.0.1">
 
-	<name>Vaadin with external url</name>
+	<name>Vaadin PhoneGap integration</name>
     <author email="jarno.rantala@vaadin.com">
         Jarno Rantala
     </author>
 	<description>
-		PhoneGap content page referenced with external url.
+		Wrapping Vaadin applications inside PhoneGap
 	</description>
     <icon src="icon.png" gap:role="default" />
     
