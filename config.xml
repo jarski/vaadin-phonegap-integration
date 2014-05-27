@@ -13,6 +13,5 @@
 	</description>
     <icon src="icon.png" gap:role="default" />
     
-    <content src="http://jarno.app.fi/Example/www/index.html"/>
 	<access origin="*" />
 </widget>
