@@ -14,4 +14,8 @@
     <icon src="icon.png" gap:role="default" />
     
 	<access origin="*" />
+    <gap:plugin name="org.apache.cordova.network-information" version="0.2.7" />
+    <gap:plugin name="org.apache.cordova.splashscreen" version="0.2.7" />
+    <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
+    <feature name="org.apache.cordova.network-information" />
 </widget>

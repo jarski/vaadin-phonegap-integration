@@ -2,7 +2,7 @@ CACHE MANIFEST
 # Build timeTue Jun 17 08:57:32 EEST 2014
 
 CACHE:
-../../../VAADIN/themes/base/fonts/fontawesome-webfont.woff
+../../../VAADIN/themes/base/fonts/fontawesome-webfont.ttf
 ../../../VAADIN/themes/touchkit/styles.css
 ../../../VAADIN/vaadinBootstrap.js
 BB62BD1BAA029AC6122B7391372C896F.cache.js
